@@ -1,8 +1,2 @@
-# source code paths
-S .
-
-# build path
-B _build
-
 # package path
 PKG qcheck
